@@ -382,7 +382,7 @@ def install_nmap_windows():
     return True
 
 if __name__ == '__main__':
-    run_oneforall("xxxsrc.txt")
+    run_oneforall("edusrc.txt")
     print("""
     只能用于多域名时才有存在all_subdomain_result_*.txt这个文件，
     
