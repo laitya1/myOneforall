@@ -1,10 +1,6 @@
-189.baiying.com.cn
-ai-office-test.baiying.com.cn
-aibaiying.baiying.com.cn
-aitc.baiying.com.cn
-assistant-test.baiying.com.cn
-assistant.baiying.com.cn
-assistantwechatai-test.baiying.com.cn
-assistantwechatai.baiying.com.cn
-attendance.baiying.com.cn
-attendancedev.baiying.com.cn
+zybiocloud.cn
+zybiocloud.com
+zybio.com
+zybio-cloud.cn
+zybio-cloud.com
+zy-ivd.com
